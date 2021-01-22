@@ -1,0 +1,9 @@
+# ignore config.sh to prevent password leak
+config.sh 
+# ignore .directory file
+.directory
+# ignore generated file
+direct.yaml
+proxy.yaml
+direct.cfg.md
+proxy.cfg.md
